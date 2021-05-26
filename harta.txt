@@ -1,0 +1,31 @@
+Athens Belgrade Berlin Bucharest Budapest Copenhagen Milan Munich Palermo Prague Rome Sofia Vienna Warsaw
+#
+0	0	0	1300	0	0	0	0	907	0	0	0	0	0
+0	0	0	0	316	0	0	0	0	0	0	330	0	0
+0	0	0	0	0	743	0	0	0	354	0	0	0	0
+1300	0	0	0	900	0	0	0	0	0	0	0	0	946
+0	316	0	900	0	0	789	0	0	443	0	0	217	0
+0	0	743	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	789	0	0	0	0	0	681	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	458	0
+907	0	0	0	0	0	0	0	0	0	1043	0	0	0
+0	0	354	0	443	0	0	0	0	0	0	0	312	0
+0	0	0	0	0	0	681	0	1043	0	0	0	0	0
+0	330	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	217	0	0	458	0	312	0	0	0	0
+0	0	0	946	0	0	0	0	0	0	0	0	0	0
+#
+Bucharest 0
+Athens 1300
+Belgrade 630
+Berlin 1800
+Budapest 900
+Copenhagen 2250
+Milan 1750
+Munich 1600
+Palermo 1280
+Prague 1490
+Rome 1140
+Sofia 390
+Vienna 1150
+Warsaw 946
